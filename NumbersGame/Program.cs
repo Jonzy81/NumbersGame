@@ -9,6 +9,8 @@ namespace NumbersGame
     {
         static void Main(string[] args)
         {
+            //Jonny Touma .NET23
+
             //variables used in the loop 
             int guess;
             int counter = 5;    // Antal gissningar man får
